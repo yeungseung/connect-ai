@@ -1,0 +1,3 @@
+[submodule "external-reference/higgsfield-skills"]
+	path = external-reference/higgsfield-skills
+	url = https://github.com/higgsfield-ai/skills.git
